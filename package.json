@@ -3,7 +3,7 @@
   "version": "2.9.0",
   "description": "JavaScript hash functions",
   "scripts": {
-    "test": "mocha --reporter list"
+    "test": "mocha --reporter list",
     "build": "grunt"
   },
   "repository": {
